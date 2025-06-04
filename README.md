@@ -1,0 +1,2 @@
+# RandomMessageGenerator
+Codecademy project
