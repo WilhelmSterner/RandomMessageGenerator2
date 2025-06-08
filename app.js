@@ -32,7 +32,8 @@ function getRandomWords() {
        
     }
 }
-
 getRandomWords();
+console.log(customStrings);
+const answerString = `Den ${customStrings[0]} ${customStrings[1]} ${customStrings[2]}  i ${customStrings[3]}.`;
 
-
+console.log(answerString);
